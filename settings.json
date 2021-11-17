@@ -1,0 +1,14 @@
+{
+    "self_mode": true,
+    "anti_delete": false,
+    "anti_call": true,
+    "autorespon": true,
+    "user_register": true,
+	"prefix": ".",
+	"ownerNumber": "6282138919347",
+	"ownername": "HelgaZex",
+	"botname":"IlhamBot",
+	"thumbnail":"LordUserbot_Thumb.jpg",
+	"fakethumb":"LordUserbot_Thumb.jpg",
+	"url_gif":"https://telegra.ph/file/c864fc477fa22e0d4bfc3.mp4"
+}
